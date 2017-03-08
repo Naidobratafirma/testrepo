@@ -83,6 +83,7 @@ Crafty.c("DOM", {
             if (comp !== removedComponent) {
                 str += ' ' + comp;
             }
+            //hjklyfrkl78o76
         }
         str = str.substr(1);
         this._element.className = str;
