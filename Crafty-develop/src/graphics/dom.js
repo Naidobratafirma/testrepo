@@ -99,6 +99,7 @@ Crafty.c("DOM", {
         }
         str = str.substr(1);
         this._element.className = str;
+        //qwerty haha
     },
 
     /**@
