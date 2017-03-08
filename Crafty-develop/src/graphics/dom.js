@@ -209,7 +209,7 @@ Crafty.c("DOM", {
             style.transform = this._cssStyles.transform;
             style[prefix + "Transform"] = this._cssStyles.transform;
         }
-
+//sxdfgsdgsdfg
         this.trigger("Draw", {
             style: style,
             type: "DOM",
