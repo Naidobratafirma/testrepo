@@ -53,6 +53,7 @@ Crafty.c("DOM", {
         this.bind("NewComponent", this._updateClass);
         this.bind("RemoveComponent", this._removeClass);
     },
+    /asdfgedg
 
     remove: function(){
         this._detachFromLayer();
