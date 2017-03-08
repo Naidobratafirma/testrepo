@@ -10,6 +10,7 @@ var Crafty = require('../core/core.js'),
  */
 Crafty.c("DOM", {
     /**@
+    /asdfsf
      * #._element
      * @comp DOM
      * @kind Property
