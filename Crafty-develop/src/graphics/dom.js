@@ -153,6 +153,7 @@ Crafty.c("DOM", {
                 style.visibility = "visible";
             }
         }
+        //qweerrt5ty
 
         //utilize CSS3 if supported
         if (Crafty.support.css3dtransform && !this.avoidCss3dTransforms) {
